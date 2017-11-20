@@ -1,24 +1,52 @@
-- intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+- project:
+  title: Wendler
+  link: https://github.com/qihuang2/WendlerAndroid
+  details:
+    - "Used the MVP architectural pattern to develop an Android application that makes tracking
+      Wendler’s 5/3/1 workout routine easier."
+    - "Technologies: RxJava, Retrofit, Dagger 2, Butter Knife, Gson, Mockito, Roboelectric, Node.js, MonoDB"
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Face Assistant
+  link: "https://github.com/FaceAssistant/AndroidApp"
+  details: 
+    - "Face Assistant is an Android and Google Glass application developed for CCNY's Senior Design course. 
+      The application uses facial recognition to assist those who are suffering from prosopagnosia, 
+      also known as face blindness, identify their loved ones."
+    - "Technologies: Java, XML, JSON, Android SDK, OkHttp, RxJava"
+
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: Game3
+  link: "https://github.com/qihuang2/Game3"
+  details: 
+    - "Game3 is a simple iOS puzzle game I developed during my free time. Inspired by the Lawn 
+      Mowing Optimization Problem, players are tasked with finding paths that allow them to explore 
+      an entire map without revisiting explored regions."
+    - "Technologies: Swift 2, SpriteKit, JSON"
+
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: Hackathon Application
+  link: "https://github.com/aanrv/Hackathon-Application"
+  details: 
+    - "This iOS application is a simple social media application developed for the Lehman College NSBE Fall 
+      2015 Hackathon. The application is centered around exposing and providing support for accounts of social 
+      injustices (where the law may have been unable to) through the extensive reach of various social medias 
+      and the support of the internet (which obviously consists of only the best and brightest that humanity 
+      has to offer)."
+    - "Technologies: Swift 2, Cocoa, Parse"
+
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  title: Mastermind
+  link: "https://github.com/qihuang2/CSC113-Assignment-2"
+  details: 
+    - "Mastermind was my final project for CCNY's Python class. It was my attempt at designing and coding a simple 
+      graphical user interface for the popular code-breaking board game that goes by the same name."
+    - "Technologies: Python, Pygame"
+
 - project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Block Party
+  link: "https://github.com/qihuang2/Swift-Game"
+  details: 
+    - "Block Party was my first iOS game. The game objective was simple: move the square around to avoid collisions with 
+    circles."
+    - "Technologies: Objective-C, SpriteKit"

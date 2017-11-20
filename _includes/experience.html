@@ -18,7 +18,11 @@
 
     {% if experience.details %}
     <div class="details">
-      <p>{{ experience.details }}</p>
+      <ul>
+        {% for detail in experience.details %}
+          <li>{{ detail }}</li>
+        {% endfor %}
+      </ul>
     </div><!--//details-->
     {% endif %}
 

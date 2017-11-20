@@ -1,28 +1,31 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Android Developer
+  time: August 2017 - Present
+  company: Citibank, New York
+  details: 
+    - "TODO:"
+  
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: College Aide - Software Developer Intern
+  time: March 2017 - May 2017
+  company: MTA Bus Technology, New York
+  details: 
+    - "Maintained and implemented crucial bug fixes for the backend of MTA’s internal bus depot
+      software." 
+    - "Developed an Amazon Alexa skill for querying MTA’s Bus Time API; with the skill, users have
+      the ability to ask Alexa for an estimate of when their next bus will arrive."
+    - "Technologies: Java, Node.js, AWS, Docker, Vagrant, Alexa, REST API"
+
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Lead Android Developer
+  time: October 2015 - December 2016
+  company: Tapt, New York
+  details: 
+    - "Built an application that allows users to share images/videos with their college campus; users are
+      given the option to post as themselves or anonymously."
+    - "Implemented instant messaging and real time in-app updates using Socket.IO."
+    - "Worked with open source libraries like OkHttp to communicate with backend servers and Glide to
+      cache and display retrieved content."
+    - "Developed custom content creation tools that allow users to compress, crop, add text, and add
+      filters to photos and videos."
+    - "Technologies: Java, XML, JSON, Android SDK, OkHttp, Socket.IO, RxJava"
