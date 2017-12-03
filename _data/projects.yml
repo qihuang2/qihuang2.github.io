@@ -1,10 +1,16 @@
 - project:
+  title: Menufi Admin Panel
+  details:
+    - "Menufi is a web application that allows restaurants to host their menus online. The Menufi admin
+    panel allows restaurants to easily modify their restaurant’s menus and information."
+    - "Technologies: React, Redux, JavaScript, Node.js, Axios, Material Design"
+
+- project:
   title: Wendler
   link: https://github.com/qihuang2/WendlerAndroid
   details:
-    - "Used the MVP architectural pattern to develop an Android application that makes tracking
-      Wendler’s 5/3/1 workout routine easier."
-    - "Technologies: RxJava, Retrofit, Dagger 2, Butter Knife, Gson, Mockito, Roboelectric, Node.js, MonoDB"
+    - "Wendler is an Android application that makes tracking Wendler’s 5/3/1 workout routine easier."
+    - "Technologies: MVP, RxJava, Retrofit, Dagger 2, Butter Knife, Gson, Mockito, Roboelectric, Node.js, MonoDB"
 
 - project:
   title: Face Assistant

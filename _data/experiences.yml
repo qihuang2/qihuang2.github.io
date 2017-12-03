@@ -3,7 +3,11 @@
   time: August 2017 - Present
   company: Citibank, New York
   details: 
-    - "TODO:"
+    - "Worked with UI designers to provide a more native Android experience to customers by
+    incorporating Material Design."
+    - " Worked with scrum leaders and backend developers to implement new features in the Citi mobile
+    application."
+    - "Used MVVM design architecture and TDD to write maintainable and testable code."
   
 - experience:
   role: College Aide - Software Developer Intern
