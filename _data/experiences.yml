@@ -1,6 +1,6 @@
 - experience:
   role: Android Developer
-  time: August 2017 - Present
+  time: August 2017 - July 2018
   company: Citibank, New York
   details: 
     - "Worked with UI designers to provide a more native Android experience to customers by
@@ -8,6 +8,7 @@
     - " Worked with scrum leaders and backend developers to implement new features in the Citi mobile
     application."
     - "Used MVVM design architecture and TDD to write maintainable and testable code."
+    - "Technologies: Java, Android SDK, Data Binding, XML, JSON, Gson, Volley, Mockito, Robolectric"
   
 - experience:
   role: College Aide - Software Developer Intern

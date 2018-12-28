@@ -10,7 +10,7 @@
   link: https://github.com/qihuang2/WendlerAndroid
   details:
     - "Wendler is an Android application that makes tracking Wendler’s 5/3/1 workout routine easier."
-    - "Technologies: MVP, RxJava, Retrofit, Dagger 2, Butter Knife, Gson, Mockito, Roboelectric, Node.js, MonoDB"
+    - "Technologies: MVP, RxJava, Retrofit, Dagger 2, Butter Knife, Gson, Mockito, Roboelectric, Node.js, MongoDB"
 
 - project:
   title: Face Assistant
